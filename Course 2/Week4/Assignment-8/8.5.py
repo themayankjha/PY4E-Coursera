@@ -9,4 +9,4 @@ for line in fh:
     count=count+1
     lst=line.split()
     print(lst[1])
-print("There were", count, "lines in the file with from as the first word")
+print("There were", count, "lines in the file with From as the first word")
