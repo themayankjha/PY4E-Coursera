@@ -6,7 +6,7 @@ while True:
     if num == "done":
         print("Maximum is",largest)
         print("Minimum is",smallest)
-        break;
+        break
     try:
         num=int(num)
     except:
