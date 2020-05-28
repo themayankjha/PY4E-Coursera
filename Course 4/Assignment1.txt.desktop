@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Name=Assignment1.txt
+Comment=Open '/tmp/VirtualBox Dropped Files/2020-05-28T11:27:38.929698000Z/Assignment1.txt'
+Icon=text-plain
+Name[en_IN]=Assignment1.txt
+Comment[en_IN]=Open '/tmp/VirtualBox Dropped Files/2020-05-28T11:27:38.929698000Z/Assignment1.txt'
+Icon[en_IN]=text-plain
+URL=file:///tmp/VirtualBox%20Dropped%20Files/2020-05-28T11:27:38.929698000Z/Assignment1.txt
+Type=Link
